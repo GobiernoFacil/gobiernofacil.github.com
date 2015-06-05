@@ -13,15 +13,46 @@
 /*.navbar .nav {
   float: right; }*/
 
-/* Jekyll Bootstrap Colors */
-h1, h2, h3, h4 {
-  color: #f22430;
-}
-#footer {
-  background-color: #fdcd60;
+.navbar {
+	background: rgba(0, 0, 0,0.2);
+	 margin-bottom: 100px;
+	 padding: 15px 0 0;
+
+}	.navbar ul { margin-bottom: 0}
+	.navbar li{
+		color: #999;
+		line-height: 25px;
+		display: inline-block;
+		  margin: 0 15px 5px 0;
+	}
+	.navbar li a {
+		/*color: rgb(238, 64, 124);*/
+		  color: white;
+		  background-color: #999;
+		  padding: 1px 6px;
+		  display: block;
+		  font-size: 13px;
+		  border-radius: 3px;
+		
+	}
+		.navbar li a:hover { background: rgb(238, 64, 124);}
+	.navbar-form { margin-bottom: 17px;}
+	.navbar-toggle { display: none;}
+	
+.btn.btn-default {
+	background: #23272d;
+	border: 0;
+	color: white;
+	line-height: 25px;
+	height: 30px;
 }
 
-
+	
+.form-control { 
+	border: 0;
+	line-height: 25px;
+	height: 30px;
+}
 
 /* posts index */
 .post > h3.title {
