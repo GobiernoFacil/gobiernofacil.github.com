@@ -10,7 +10,7 @@ tagline: Ideas, datos abiertos, investigación y periodismo de datos del equipo 
   {% for post in site.posts %}
     <li>
     	<h2> <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h2>
-    	<span class="des">{{ post.description}}</span>
+    	<span class="des">{{ post.tagline}}</span>
 		<span>{{ post.date | date_to_string }} / {{ post.author }}</span> 
     
     </li>

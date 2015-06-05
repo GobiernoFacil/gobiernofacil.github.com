@@ -81,11 +81,68 @@
 		font-size: 12px;
 	}
 		.posts li span.des { 
-			font-size: 17px; 
+			font-size: 20px; 
 			color: #555;
 		}
-	
-	
+
+.post-full {
+	padding-bottom: 100px;
+}	
+.post-full .lead {
+	font-size: 21px;
+  font-weight: 300;
+  line-height: 2;
+  margin-bottom: 60px;
+}	
+.post-full h1, 
+.post-full h2 {
+	border-top: 1px dotted #ee407c;
+  padding-top: 20px;
+  margin-top: 40px;
+  color: #23272d;
+  font-size: 28px;
+  font-weight: 700;
+  text-align: left;
+  padding-bottom: 10px;
+ }
+.post-full  h3 {
+  color: #23272d;
+  font-size: 21px;
+  font-weight: 300;
+  text-align: left;
+  margin-top: 40px;
+  padding: 20px 0 30px;
+  text-transform: uppercase;
+  }
+  .post-full ul,
+   .post-full ol {
+	  margin-left: 40px;
+  }
+.post-full  p,
+.post-full  li  {  
+  color: rgba(25, 25, 40, 0.7);
+  font: 300 18px/1.5 'Roboto Slab', Helvetica, Arial, sans-serif;;
+  text-align: left;
+  }
+  
+article header h4  {
+	text-transform: uppercase;
+	font-size: 15px;
+	color: #555;
+} 
+  
+  section.work.related p {
+	  text-align: center;
+  }
+  	 section.work.related p span { color: #999;}
+  	section.work.related a.link {
+  		  background:rgb(238, 64, 124);
+  		  color: white;
+  		  padding: 5px 10px;
+  	}
+  	section.work.related a.link:hover {
+	  	background: #555;
+  	}
 /* posts index */
 .post > h3.title {
   position: relative;
