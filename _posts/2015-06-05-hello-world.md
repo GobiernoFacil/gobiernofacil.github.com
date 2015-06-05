@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Hello World"
-description: ""
+description: "El hola"
+author: "Hugo Osorio"
 category: 
 tags: []
 ---
