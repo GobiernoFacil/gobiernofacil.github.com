@@ -103,15 +103,27 @@
 
     </div>
 
-    <div id="footer">
-      <div class="container">
-        <p>&copy; {{ site.time | date: '%Y' }} {{ site.author.name }}
-          with help from <a href="http://jekyllbootstrap.com" target="_blank" title="The Definitive Jekyll Blogging Framework">Jekyll Bootstrap</a>
-          and <a href="http://getbootstrap.com" target="_blank">Bootstrap</a>
-        </p>
-      </div>
-    </div>
 
+	<footer>
+		<div class="container">
+		<div class="row">
+		<div class="col-sm-9">
+			<p>&copy; {{ site.time | date: '%Y' }} {{ site.author.name }}.<br>
+			<a href="mailto:howdy@gobiernofacil.com">howdy@gobiernofacil.com</a> <br>
+			<strong>Forjado artesanalmente en México</strong><br>
+			con <a href="http://jekyllbootstrap.com" target="_blank" title="The Definitive Jekyll Blogging Framework">Jekyll Bootstrap</a>
+			</p>
+		</div>
+		<div class="col-sm-3 sm">
+			<a class="tw" href="https://twitter.com/gobiernofacil">@gobiernoFacil</a> 
+			<a class="fb" href="https://www.facebook.com/GobiernoFacil">Gobierno Fácil Facebook</a> 
+			<a class="git" href="https://github.com/GobiernoFacil">Gobierno Fácil en github</a>
+			<a class="ld" href="https://www.linkedin.com/company/gobierno-f%C3%A1cil">Gobierno Fácil Linkedin</a>			
+		</div>
+		</div>
+		</div>
+	</footer>
+	
     {% include JB/analytics %}
 
 

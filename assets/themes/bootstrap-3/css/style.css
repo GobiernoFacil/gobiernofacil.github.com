@@ -33,9 +33,9 @@
 		  display: block;
 		  font-size: 13px;
 		  border-radius: 3px;
-		
 	}
 		.navbar li a:hover { background: rgb(238, 64, 124);}
+	
 	.navbar-form { margin-bottom: 17px;}
 	.navbar-toggle { display: none;}
 	
@@ -46,7 +46,7 @@
 	line-height: 25px;
 	height: 30px;
 }
-
+	.btn.btn-default:hover { background: rgb(238, 64, 124);}
 	
 .form-control { 
 	border: 0;
