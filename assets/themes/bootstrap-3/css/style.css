@@ -89,7 +89,7 @@
 	padding-bottom: 100px;
 }	
 .post-full .lead {
-	font-size: 21px;
+	font-size: 32px;
   font-weight: 300;
   line-height: 2;
   margin-bottom: 60px;
@@ -118,6 +118,14 @@
    .post-full ol {
 	  margin-left: 40px;
   }
+  .date p span,
+  .date p a {
+	 border: 0;
+	 color:  #A8A8A8; 
+	 font-weight: 300;
+	 margin: 0 10px;
+  }
+ 
 .post-full  p,
 .post-full  li  {  
   color: rgba(25, 25, 40, 0.7);
@@ -143,6 +151,25 @@ article header h4  {
   	section.work.related a.link:hover {
 	  	background: #555;
   	}
+
+/**  blog   */  	
+.blog {border: 0;
+	  margin-bottom: 50px;
+	  padding: 0;
+}
+.blog h1 {
+	border-bottom: 1px dotted #ee407c;
+	margin: 10px 0 20px;
+	padding: 45px 95px;
+} 
+.blog h4 {
+	color: #777;
+	margin: 0 0 40px;
+	letter-spacing: 4px;
+	display: inline;
+	padding: 0 0 5px;
+}  
+  	
 /* posts index */
 .post > h3.title {
   position: relative;

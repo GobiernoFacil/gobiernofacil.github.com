@@ -1,15 +1,16 @@
-<header class="row">
+<header class="row blog">
 	<h4>{{ page.category }}</h4>
   	<h1>{{ page.title }}</h1>
 	<div class="date">
-      <p><strong>{{ page.author }}</strong> | <span>{{ page.date | date_to_long_string }}</span></p>
+      <p>{% if page.author %}<a href="http://gobiernofacil.com/acerca-de-gobierno-facil/">{{ page.author }}</a>{% endif %}
+	      
+	       | <span>{{ page.date | date_to_long_string }}</span></p>
     </div>
 </header>
 <div class="row post-full">
 	<div class="col-xs-12 col-sm-8 col-sm-offset-2">
 		<p class="lead">{% if page.tagline %}{{ page.tagline }}{% endif %}</p>
 		{{ content }}
-
 
   {% unless page.categories == empty %}
     <ul class="tag_box inline">
