@@ -10,9 +10,16 @@
 <div class="row post-full">
 	<div class="col-xs-12 col-sm-8 col-sm-offset-2">
 		<p class="lead">{% if page.tagline %}{{ page.tagline }}{% endif %}</p>
-		{{ content }}
+		{{ content }} 
+  	</div>
+</div>
 
-  {% unless page.categories == empty %}
+
+	<!-- hello-->
+	<section class="hello">	
+		<div class="row">
+		<div class="col-sm-10 col-md-8 col-sm-offset-1 col-md-offset-2 ">
+			{% unless page.categories == empty %}
     <ul class="tag_box inline">
       <li><i class="glyphicon glyphicon-open"></i></li>
       {% assign categories_list = page.categories %}
@@ -26,11 +33,19 @@
       {% assign tags_list = page.tags %}
       {% include JB/tags_list %}
     </ul>
-  {% endunless %}  
-  	</div>
-</div>
-
-<div class="row">
+  {% endunless %} 
+			
+			
+			
+			<div class="divider"></div>
+			<p class="lead">¿Te interesa que Gobierno Fácil participe en tu proyecto?
+				<a href="mailto:howdy@gobiernofacil.com" class="btn_hello hvr-buzz-out">Di Hola</a>
+			</p>
+			
+		</div>	
+		</div>
+	</section>
+	
 	<section class="related work">
 		<div class="col-xs-4 col-sm-4">
 		 	<p>{% if page.previous %}
