@@ -1051,4 +1051,14 @@ section.next  {
 	margin: 30px 0 0;
 	text-align: left;
 }
-  
+
+.post-full
+blockquote p {
+  color: #666;
+  font: 300 30px/1.5 'Roboto Slab', Helvetica, Arial, sans-serif;
+  font-style: oblique;
+  padding: 10px 0 10px 20px;
+  text-align: left;
+ }
+.post-full
+blockquote { margin-bottom: 2em}
