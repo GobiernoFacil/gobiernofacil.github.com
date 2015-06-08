@@ -2,7 +2,7 @@
 layout: page
 title: Blog de Gobierno Fácil
 description: Ideas, datos abiertos, investigación y periodismo de datos del equipo de Gobierno Fácil
-tagline: Ideas, datos abiertos, investigación y periodismo de datos del equipo de Gobierno Fácil
+tagline: Ideas, datos abiertos, investigación, periodismo de datos y experimentos del equipo de Gobierno Fácil
 ---
 {% include JB/setup %}
 
