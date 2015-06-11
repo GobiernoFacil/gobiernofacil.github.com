@@ -849,6 +849,29 @@ strong {
   text-align: left;
   direction: ltr;
   background-size: auto 48px; }
+  
+.hamburger {
+  display: none;
+  background: #ee407c;
+  border: 0;
+  color: #fff;
+  height: 35px;
+  line-height: 34px;
+  font-size: 1.2em;
+  font-weight: bold;
+  cursor: pointer;
+  width: 100%;
+  padding: 0; }
+  .hamburger .cl {
+    display: none;
+    font-size: 3em;
+    line-height: 55px; }
+  .hamburger .op {
+    display: block; }
+  .hamburger.close .op {
+    display: none; }
+  .hamburger.close .cl {
+    display: block; }
 
 /* =projects header
 -------------------------------------------------------------- */
@@ -1877,6 +1900,11 @@ footer {
 /* max-width: 480px
 -------------------------------------------------------------- */
 @media screen and (max-width: 480px) {
+	.menu {
+    display: none;
+    margin-bottom: 30px; }
+  .hamburger {
+    display: block; }
   .gobiernofacil {
     background-size: 100% auto;
     min-height: 60px; }
@@ -1885,7 +1913,7 @@ footer {
     height: auto;
     min-height: 400px; }
     .home .main .cta {
-      margin: 20px 0; }
+      margin: 50px 0; }
       .home .main .cta h2 {
         font-size: 1em; }
       .home .main .cta h3 {
@@ -1924,8 +1952,15 @@ footer {
         .home .projects section.work a.c .text {
           font-size: 24px;
           top: 21%; }
-  .main .nav li {
-    font-size: 11px; }
+  .main .nav {
+    text-align: center; }
+    .main .nav li {
+      border-bottom: white 1px dotted;
+      display: block; }
+      .main .nav li a {
+        display: block;
+        font-size: 0.8em;
+        padding: 15px 0 15px 0; }
   .main.head_w {
     height: 370px; }
     .main.head_w.inegifacil, .main.head_w.tablero, .main.head_w.ramo23 {
@@ -1986,7 +2021,25 @@ footer {
 
 /* min-width: 481px and max-width:767px
 -------------------------------------------------------------- */
-@media screen and (min-width: 481px) and (max-width: 767px) { }
+@media screen and (min-width: 481px) and (max-width: 767px) { 
+	.menu {
+    display: none;
+    margin-bottom: 30px; }
+  .hamburger {
+    display: block; }
+  .main .nav {
+    text-align: center; }
+    .main .nav li {
+      border-bottom: white 1px dotted;
+      display: block; }
+      .main .nav li a {
+        display: block;
+        font-size: 1em;
+        padding: 15px 0 15px 0; }
+  .home .main .cta {
+    margin: 30px 0;
+    text-align: center; } 
+}
 
 /* =Print
 ----------------------------------------------- */
