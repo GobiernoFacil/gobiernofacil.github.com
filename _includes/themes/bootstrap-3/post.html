@@ -4,8 +4,14 @@
 				<h4>{{ page.category }}</h4>
 			  	<h1>{{ page.title }}</h1>
 				<div class="date">
-			      <p>{% if page.author %}<a href="http://gobiernofacil.com/acerca-de-gobierno-facil/">{{ page.author }}</a>{% endif %}
-				      
+			      <p>{% if page.author %} 
+				     	{% if page.author == "Hugo Osorio" %}
+				      	<a href="http://gobiernofacil.com/acerca/hugo-osorio">{{ page.author }}</a>
+					  	{% endif %}
+					  	{% if page.author == "Boris Cuapio" %}
+				      	<a href="http://gobiernofacil.com/acerca/boris-cuapio">{{ page.author }}</a>
+					  	{% endif %}
+					  {% endif %}
 				       | <span>{{ page.date | date_to_long_string }}</span></p>
 			    </div>
 			</header>
