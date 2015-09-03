@@ -795,7 +795,14 @@ input:focus, select:focus, textarea:focus {
 -------------------------------------------------------------- */
 * {
   font-family: 'Roboto Slab', serif; }
+sup {
+	font-size: 11px;
+	color: rgb(238,64,124);	
+	
+} 
+em { font-style: italic}
 
+sup a {color: rgb(238,64,124) !important;}
 html {
   background: transparent; }
   html:before {
