@@ -51,7 +51,7 @@ Sección que permite descargar documentos relacionados con las estadísticas de 
 
 
 ## API de Transparencia presupuestaria 
-La labor de **Transparencia Presupuestaria** de la SHCP para fortalecer la intervención ciudadana es evidente, pero como todo se puede mejorar (o al menos eso creemos), una de las principales propuestas (uno de nuestro más grandes deseos) en este ejercicio de participación ciudadana fue la del desarrollo de una API (*Application Programming Interface*) del portal de Transparencia Presupuestaria que permita utilizar los datos abiertos en tiempo real para crear nuevas herramientas o para proporcionar nuevos servicios como el de [INEGI Fácil](http://inegifacil.com/).
+La labor de **Transparencia Presupuestaria** de la SHCP para fortalecer la intervención ciudadana es evidente, pero como todo se puede mejorar (o al menos eso creemos), una de las principales propuestas (uno de nuestros más grandes deseos) en este ejercicio de participación ciudadana fue la del desarrollo de una API (*Application Programming Interface*) del portal de Transparencia Presupuestaria que permita utilizar los datos abiertos en tiempo real para crear nuevas herramientas o para proporcionar nuevos servicios como el de [INEGI Fácil](http://inegifacil.com/).
 
 
 <div class="divider"></div>
