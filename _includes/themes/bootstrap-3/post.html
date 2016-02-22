@@ -10,6 +10,8 @@
 					  	{% endif %}
 					  	{% if page.author == "Boris Cuapio" %}
 				      	<a href="http://gobiernofacil.com/acerca/boris-cuapio">{{ page.author }}</a>
+				      	{% else %}
+				      	<a href="http://gobiernofacil.com/">{{ page.author }}</a>
 					  	{% endif %}
 					  {% endif %}
 				       | <span>{{ page.date | date_to_long_string }}</span></p>
