@@ -47,6 +47,7 @@ Buscamos a un diseñador@ UX/UI que quiera contribuir a estas herramientas. Esta
 
 ## Aplica 
 Envía correo a howdy[at]gobiernofacil.com, con la siguiente información:
+
 * Enlace a portafolio
 * Linkedin
 * Twitter
