@@ -45,7 +45,8 @@ Buscamos a un diseñador@ UX/UI que quiera contribuir a estas herramientas. Esta
 * Salario: A convenir
 * Tiempo completo
 
-## Aplica enviando correo a howdy[at]gobiernofacil.com, con la siguiente información:
+## Aplica 
+Envía correo a howdy[at]gobiernofacil.com, con la siguiente información:
 * Enlace a portafolio
 * Linkedin
 * Twitter
