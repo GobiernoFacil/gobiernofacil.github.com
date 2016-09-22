@@ -40,9 +40,12 @@ Buscamos a un diseñador@ UX/UI que quiera contribuir a estas herramientas. Esta
 * Termina lo que inicia.
 * Buenas prácticas de organización (por ejemplo, mantener los archivos actualizados, las carpetas entendibles, etc.)
 
-Aplica enviando correo a howdy[at]gobiernofacil.com, con la siguiente información:
+## Detalles:
+* Ubicación: Ciudad de Puebla.
+* Salario: A convenir
+* Tiempo completo
+
+## Aplica enviando correo a howdy[at]gobiernofacil.com, con la siguiente información:
 * Enlace a portafolio
 * Linkedin
 * Twitter
-
- 
