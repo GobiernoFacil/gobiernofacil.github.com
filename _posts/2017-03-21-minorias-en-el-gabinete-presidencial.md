@@ -12,7 +12,7 @@ author: Alejandra Padilla
 
 Incluimos el gabinete legal, es decir, las **18 secretarías de Estado**, la Procuraduría General de la República, y la Consejería Jurídica del Ejecutivo Federal, así como **nueve entidades desconcentradas** que forman parte del gabinete ampliado: la Oficina de la Presidencia, Petróleos Mexicanos, el Instituto Mexicano del Seguro Social, el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, la Comisión Federal de Electricidad, la Comisión Nacional del Agua, la Comisión Nacional para el Desarrollo de los Pueblos Indígenas, el Consejo Nacional de Ciencia y Tecnología y el Instituto Nacional de las Mujeres.
 
-De las 30 personas que integran el gabinete legal y ampliado de **Peña Nieto**, seis son morenas (una mujer y cinco hombres); en el caso de **Calderón** Hinojosa, había tres personas morenas (dos mujeres y un hombre) entre las 31 que conformaban el gabinete, mientras que cuando **Fox Quesada** concluyó su mandato, siete de los 31 miembros del gabinete eran morenos (dos mujeres y cinco hombres).
+De las 30 personas que integran el gabinete legal y ampliado de **Peña Nieto**, seis son morenas (una mujer y cinco hombres); en el caso de **Calderón Hinojosa**, había tres personas morenas (dos mujeres y un hombre) entre las 31 que conformaban el gabinete, mientras que cuando **Fox Quesada** concluyó su mandato, siete de los 31 miembros del gabinete eran morenos (dos mujeres y cinco hombres).
 
 Los gabinetes presidenciales de Vicente Fox Quesada, Felipe Calderón Hinojosa y Enrique Peña Nieto han estado conformados, en su mayoría, por personas de piel blanca. 
 
@@ -26,6 +26,10 @@ Investigadores especializados en racismo dicen que este es un reflejo de la disc
 En cuanto a equidad de género, en el gabinete de Peña Nieto hay **seis mujeres**, la misma cifra que existía con Calderón; mientras que en el gabinete de Fox había **cuatro mujeres**.
 
 ![Visualización de las minorías en los gabinetes presidenciales (2000 - 2017)]({{ site.url }}/assets/images/discriminacionv2.png)
+
+<div class="viz">
+<p class="source right">Diseño: <a href="http://gobiernofacil.com/acerca/hugo-osorio">Hugo Osorio</a></p>
+</div>
 
 En 1966, la **Asamblea General de la ONU** proclamó el 21 de marzo como el [Día Internacional para la Eliminación de la Discriminación Racial](http://www.gob.mx/segob/articulos/dia-internacional-para-la-eliminacion-de-la-discriminacion-racial-21-de-marzo?es) en memoria de la masacre de Sharpeville, ocurrida seis años antes. 
 
