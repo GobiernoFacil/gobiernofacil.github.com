@@ -10,9 +10,14 @@
 					  	{% endif %}
 					  	{% if page.author == "Boris Cuapio" %}
 				      	<a href="http://gobiernofacil.com/acerca/boris-cuapio">{{ page.author }}</a>
-				      	{% else %}
-				      	<a href="http://gobiernofacil.com/">{{ page.author }}</a>
 					  	{% endif %}
+					  	{% if page.author == "Alejandra Padilla" %}
+				      	<a href="http://gobiernofacil.com/acerca/alejandra-padilla">{{ page.author }}</a>
+					  	{% endif %}
+					  	{% if page.author == "Argentina Velasco" %}
+				      	<a href="http://gobiernofacil.com/acerca/argentina-velasco">{{ page.author }}</a>
+					  	{% endif %}
+				     	
 					  {% endif %}
 				       | <span>{{ page.date | date_to_long_string }}</span></p>
 			    </div>
