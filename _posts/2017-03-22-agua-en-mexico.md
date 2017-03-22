@@ -12,7 +12,9 @@ author: Alejandra Padilla + Argentina Velasco
 
 El 22 de marzo es el Día Internacional del Agua. Fue declarado como tal por la Asamblea General de la ONU en 1992 para llamar la atención sobre la importancia del agua dulce y la defensa de la gestión sostenible de este recurso. 
 
-En México, casi la mitad de los estados (43.75 por ciento) tienen un **acceso regular** a los servicios básicos de agua: 14 de 32. Mientras tanto, hay 10 entidades que cuentan con **acceso adecuado** y ocho en los que el acceso a este recurso natural es **deficiente**, muestran los datos del [Índice Global de Acceso a los Servicios básicos de Agua (IGASA) más reciente de la Comisión Nacional del Agua (CONAGUA), consultados a través del Instituto Nacional de Estadística y Geografía (INEGI).](http://www3.inegi.org.mx/sistemas/cni/escenario.aspx?idOrden=1.2&ind=6200034541&gen=1722&d=n).
+En México, casi la mitad de los estados (43.75 por ciento) tienen un **acceso regular** a los servicios básicos de agua: 14 de 32. Mientras tanto, hay 10 entidades que cuentan con **acceso adecuado** y ocho en los que el acceso a este recurso natural es **deficiente**, muestran los datos del [Índice Global de Acceso a los Servicios básicos de Agua (IGASA) más reciente de la Comisión Nacional del Agua (CONAGUA), consultados a través del Instituto Nacional de Estadística y Geografía (INEGI)](http://www3.inegi.org.mx/sistemas/cni/escenario.aspx?idOrden=1.2&ind=6200034541&gen=1722&d=n).
+
+![Visualización del Acceso a servicios básicos de agua en México]({{ site.url }}/assets/images/infografia_conagua.png)
 
 Este índice evalúa el impacto de la política hídrica nacional en cuanto a cobertura, calidad y eficiencia del servicio. La medición considera el acceso a los servicios de agua potable y de saneamiento en cada estado del país. 
 
