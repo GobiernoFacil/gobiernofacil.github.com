@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Colombia le da seguimiento a compromisos de Gobierno Abierto con el tablero open source de Gobierno Fácil"
+title: "Colombia da seguimiento a compromisos de Gobierno Abierto con el tablero open source de Gobierno Fácil"
 description: 'Los datos más recientes de la CONAGUA (2015), muestran que el acceso al agua es regular en 14 estados de la República Mexicana, mientras que en 10 es adecuado y en ocho, deficiente.'
 tagline: 'En el marco de la firma del tercer plan de acción de la Alianza para el Gobierno Abierto en Colombia, la organización Somos Más registra los avances en esta materia por medio del tablero de control en código abierto desarrollado por Gobierno Fácil.'
 category: Transparencia
