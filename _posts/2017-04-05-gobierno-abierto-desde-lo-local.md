@@ -5,7 +5,7 @@ description: 'La iniciativa busca fortalecer acciones locales con perspectiva de
 tagline: 'La iniciativa busca fortalecer acciones locales con perspectiva de Gobierno Abierto y Desarrollo Sostenible. Participan el INAI, GESOC, ProSociedad, PNUD y Gobierno Fácil, con el apoyo de USAID.'
 category: Transparencia
 tags: ["Convocatorias"]
-author: Alejandra Padilla
+author: Gobierno Fácil
 
 ---
 {% include JB/setup %}
