@@ -11,10 +11,10 @@ author: Gobierno Fácil
 {% include JB/setup %}
 
 + El programa Monitor Vial en la capital del estado de Puebla fue puesto en marcha el 5 de agosto de 2013 para prevenir accidentes por exceso de velocidad.
-+ 2014 fue el año con mayor cobro de fotomultas, cuando el monto ascendió a 239.7 millones de pesos.
++ 2014 fue el año con mayor cobro de fotomultas, cuando el monto ascendió a **239.7 millones de pesos**.
 + En 2016 el Gobierno del estado cambió los criterios de infracción, con lo que el monto ha disminuido casi en la mitad.
 
-En Gobierno Fácil actualizamos la herramienta sobre los [ingresos recaudados por el estado de Puebla a través del sistema de fotomultas](https://gobiernofacil.com/herramientas/ingresos-por-fotomulta-puebla). Añadimos los datos hasta enero de 2017 que la **Secretaría de Finanzas** estatal dio a conocer a través de una solicitud de acceso a la información.
+En Gobierno Fácil actualizamos la herramienta sobre los [ingresos recaudados por el estado de Puebla a través del sistema de fotomultas](https://gobiernofacil.com/herramientas/ingresos-por-fotomulta-puebla). Añadimos los datos hasta enero de 2017 que la [**Secretaría de Finanzas**](http://sfa.puebla.gob.mx/) estatal dio a conocer a través de una solicitud de acceso a la información.
 
 [![Ingresos recaudados por fotomulta en Puebla]({{ site.url }}/assets/images/fotomultas_v1.png)](https://gobiernofacil.com/herramientas/ingresos-por-fotomulta-puebla)
 
