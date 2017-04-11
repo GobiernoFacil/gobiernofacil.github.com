@@ -12,7 +12,7 @@ author: Gobierno Fácil
 
 En Gobierno Fácil actualizamos la herramienta sobre los [ingresos recaudados por el estado de Puebla a través del sistema de fotomultas](https://gobiernofacil.com/herramientas/ingresos-por-fotomulta-puebla). Añadimos los datos hasta enero de 2017 que la **Secretaría de Finanzas** estatal dio a conocer a través de una solicitud de acceso a la información.
 
-[![Ingresos recaudados por fotomulta en Puebla]({{ site.url }}/assets/images/fotomultas.png)](https://gobiernofacil.com/herramientas/ingresos-por-fotomulta-puebla)
+[![Ingresos recaudados por fotomulta en Puebla]({{ site.url }}/assets/images/fotomultas_v1.png)](https://gobiernofacil.com/herramientas/ingresos-por-fotomulta-puebla)
 
 
 Durante enero de 2017, el monto cobrado por **fotomultas** en el municipio de Puebla ascendió a **3.9 millones de pesos**. Esta cifra es siete veces menor a la recaudada durante el mismo mes de 2014, cuando llegó a 29.6 millones de pesos.
