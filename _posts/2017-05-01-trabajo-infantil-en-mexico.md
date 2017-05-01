@@ -11,7 +11,7 @@ author: Alejandra Padilla + Hugo Osorio
 {% include JB/setup %}
 
 
-La encuesta sobre trabajo infantil en México más reciente fue realizada por el [INEGI] (http://www.inegi.org.mx) en 2015. En Gobierno Fácil visualizamos algunos de los resultados para dar a conocer cuánto niños en México trabajan, en qué consiste su actividad laboral, por qué lo hacen y cuál es la duración promedio de una jornada de trabajo infantil. 
+La encuesta sobre trabajo infantil en México más reciente fue realizada por el [INEGI](http://www.inegi.org.mx) en 2015. En Gobierno Fácil visualizamos algunos de los resultados para dar a conocer cuánto niños en México trabajan, en qué consiste su actividad laboral, por qué lo hacen y cuál es la duración promedio de una jornada de trabajo infantil. 
 
 En México hay **39 millones 372 mil 60 niñas y niños** de entre cero y 17 años; los menores de edad son **32.40 por ciento de la población total** en el país, de acuerdo con el último censo del Instituto Nacional de Estadística y Geografía (INEGI). 
 
