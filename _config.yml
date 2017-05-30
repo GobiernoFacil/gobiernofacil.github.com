@@ -16,7 +16,8 @@ author :
   github : GobiernoFacil
   twitter : GobiernoFacil
   feedburner : 
-
+paginate: 5
+paginate_path: "/blog/page:num/"
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
 # Most places will/should use BASE_PATH to make the urls
